@@ -1,13 +1,15 @@
 import './App.css';
-import { Features, Header, Hero } from './components';
+import { Features, FeatureTwo, FeatureThree, FeatureFive, Hero, Footer } from './components';
 
 function App() {
   return (
     <div className="App">
-      <Header />
       <Hero />
       <Features />
-      <h1 className='text-textslate'>Hello world</h1>
+      <FeatureTwo />
+      <FeatureThree />
+      <FeatureFive />
+      <Footer />
     </div>
   );
 }
