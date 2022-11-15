@@ -1,5 +1,5 @@
 import './App.css';
-import { Features, FeatureTwo, FeatureThree, FeatureFive, Hero, Footer } from './components';
+import { Features, FeatureTwo, FeatureThree, FeatureFive, Hero, Footer, Blogs } from './components';
 
 function App() {
   return (
@@ -9,6 +9,7 @@ function App() {
       <FeatureTwo />
       <FeatureThree />
       <FeatureFive />
+      <Blogs />
       <Footer />
     </div>
   );

@@ -12,7 +12,11 @@ module.exports = {
           "url('https://preview.colorlib.com/theme/fox/images/bg_1.jpg.webp')",
         "bg-2": "url('../public/bg_2.webp')",
         "bg-3": "url('../public/bg_3.jpg.webp')",
+        
         "about-2": "url('../public/about-2.jpg.webp')",
+      },
+      fontFamily: {
+        poppins: ["Poppins"],
       },
     },
   },

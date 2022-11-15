@@ -16,7 +16,7 @@ const Hero = () => {
         src="https://preview.colorlib.com/theme/fox/images/bg_1.jpg.webp"
         alt="student-img"
       />
-      <div className="absolute inset-0 bg-bgorange bg-opacity-70 mt-0">
+      <div className="absolute inset-0 bg-bgorange bg-opacity-40 mt-0">
         <div className="z-10 text-[#ffffff] text-4xl">
           <div className='justify-items-center m-40 text-6xl font-bold'>
             <div className='text-start'>Education needs</div>
