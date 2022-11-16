@@ -3,7 +3,7 @@ import { Features, FeatureTwo, FeatureThree, FeatureFive, Header, Hero, Footer, 
 
 function App() {
   return (
-    <div className="App">
+    <div className="font-poppins">
       <Header />
       <Hero />
       <Features />

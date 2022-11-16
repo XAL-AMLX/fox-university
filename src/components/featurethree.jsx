@@ -47,9 +47,9 @@ const FeatureThree = () => {
       <img
         src="https://preview.colorlib.com/theme/fox/images/image_4.jpg.webp"
         alt="student-img"
-        className="w-screen"
+        className="w-screen contrast-50"
       />
-      <div className="absolute inset-0 bg-bgorange bg-opacity-30 mt-0">
+      <div className="absolute inset-0 bg-bgorange bg-opacity-60 mt-0">
         <div className="z-10 text-[#ffffff] text-4xl">
           <div className="grid grid-rows-2">
             <div className="row-span-3 ">
@@ -58,12 +58,12 @@ const FeatureThree = () => {
                   <img
                     src="https://preview.colorlib.com/theme/fox/images/about-2.jpg.webp"
                     alt="youtube-video"
-                    className="flex justify-center items-center mx-24 mb-32 w-4/5"
+                    className="flex justify-center items-center mx-24 mb-32  w-4/5"
                   />
                 </div>
 
-                <div className="space-x-5 z-1 text-xl text-start">
-                  <h1 className="mb-5  text-bold text-3xl ml-4">
+                <div className="space-x-5 z-1 text-xl text-start contrast-175">
+                  <h1 className="mb-5  font-extrabold text-4xl ml-4">
                     Fox University
                   </h1>
                   <p>
@@ -88,8 +88,6 @@ const FeatureThree = () => {
           <div className="grid grid-rows-1 md:grid-cols-2 lg:grid-cols-4">
             {valuesDisplayed}
           </div>
-
-
         </div>
       </div>
     </div>

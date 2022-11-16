@@ -1,6 +1,9 @@
 module.exports = {
   content: ["./src/**/*.{js,jsx,ts,tsx}"],
   theme: {
+    fontFamily: {
+      'poppins' : '"Poppins"'
+    },
     colors: {
       bgorange: "#fd5f00",
       bgblue: "#0d1128",
@@ -15,9 +18,7 @@ module.exports = {
         
         "about-2": "url('../public/about-2.jpg.webp')",
       },
-      fontFamily: {
-        poppins: ["Poppins"],
-      },
+      
     },
   },
   plugins: [],

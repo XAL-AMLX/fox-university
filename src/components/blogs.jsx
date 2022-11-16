@@ -4,7 +4,7 @@ import React from 'react'
 const Blogs = () => {
   return (
     <div>
-      <div grid grid-rows-2>
+      <div grid grid-rows-2 >
         <div className="text-center text-textslate gap-3">
           <h1 className="text-[#000000] font-bold text-3xl">Recent Blog</h1>
           <div>
@@ -24,7 +24,7 @@ const Blogs = () => {
               Far far away, behind the word mountains, far from the countries
               Vokalia and Consonantia, there live the blind texts.
             </p>
-            <button className="bg-bgorange text-[#ffffff] rounded-lg p-2 ">
+            <button className="bg-bgorange text-[#ffffff] rounded-full p-2 ">
               Read More
             </button>
           </div>
@@ -36,7 +36,7 @@ const Blogs = () => {
               Far far away, behind the word mountains, far from the countries
               Vokalia and Consonantia, there live the blind texts.
             </p>
-            <button className="bg-bgorange text-[#ffffff] rounded-lg p-2 ">
+            <button className="bg-bgorange text-[#ffffff] rounded-full p-2 ">
               Read More
             </button>
           </div>
@@ -48,7 +48,7 @@ const Blogs = () => {
               Far far away, behind the word mountains, far from the countries
               Vokalia and Consonantia, there live the blind texts.
             </p>
-            <button className="bg-bgorange text-[#ffffff] rounded-lg p-2 ">
+            <button className="bg-bgorange text-[#ffffff] rounded-full p-2 ">
               Read More
             </button>
           </div>
