@@ -25,7 +25,7 @@ const featurefive = () => {
       <div className="grid grid-cols-4 gap-4 m-4">
         <div>
           <h1>Bianca Wilson</h1>
-          <h4>TEACHER</h4>
+          <h4 className="text-bgorange">TEACHER</h4>
           <p>
             I am an ambitious workaholic, but apart from that, pretty simple
             person.
@@ -34,7 +34,7 @@ const featurefive = () => {
 
         <div>
           <h1>Bianca Wilson</h1>
-          <h4>TEACHER</h4>
+          <h4 className="text-bgorange">TEACHER</h4>
           <p>
             I am an ambitious workaholic, but apart from that, pretty simple
             person.
@@ -43,7 +43,7 @@ const featurefive = () => {
 
         <div>
           <h1>Bianca Wilson</h1>
-          <h4>TEACHER</h4>
+          <h4 className="text-bgorange">TEACHER</h4>
           <p>
             I am an ambitious workaholic, but apart from that, pretty simple
             person.
@@ -52,7 +52,7 @@ const featurefive = () => {
 
         <div>
           <h1>Bianca Wilson</h1>
-          <h4>TEACHER</h4>
+          <h4 className="text-bgorange">TEACHER</h4>
           <p>
             I am an ambitious workaholic, but apart from that, pretty simple
             person.

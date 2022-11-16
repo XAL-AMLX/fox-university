@@ -1,9 +1,10 @@
 import './App.css';
-import { Features, FeatureTwo, FeatureThree, FeatureFive, Hero, Footer, Blogs } from './components';
+import { Features, FeatureTwo, FeatureThree, FeatureFive, Header, Hero, Footer, Blogs } from './components';
 
 function App() {
   return (
     <div className="App">
+      <Header />
       <Hero />
       <Features />
       <FeatureTwo />
