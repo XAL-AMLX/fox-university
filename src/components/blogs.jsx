@@ -49,7 +49,7 @@ const Blogs = () => {
               Vokalia and Consonantia, there live the blind texts.
             </p>
             <button className="bg-bgorange text-[#ffffff] rounded-full p-2 ">
-              Read More
+              Read Less
             </button>
           </div>
           
